@@ -1,0 +1,7 @@
+C:\DEV\DllTestBed\RemoteProxy\bin\Debug\RemoteProxy.dll
+C:\DEV\DllTestBed\RemoteProxy\bin\Debug\RemoteProxy.pdb
+C:\DEV\DllTestBed\RemoteProxy\bin\Debug\IRemote.dll
+C:\DEV\DllTestBed\RemoteProxy\bin\Debug\IRemote.pdb
+C:\DEV\DllTestBed\RemoteProxy\obj\Debug\ResolveAssemblyReference.cache
+C:\DEV\DllTestBed\RemoteProxy\obj\Debug\RemoteProxy.dll
+C:\DEV\DllTestBed\RemoteProxy\obj\Debug\RemoteProxy.pdb

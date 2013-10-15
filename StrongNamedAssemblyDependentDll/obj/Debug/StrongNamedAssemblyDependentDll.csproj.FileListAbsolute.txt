@@ -1,0 +1,7 @@
+C:\DEV\DllTestBed\StrongNamedAssemblyDependentDll\bin\Debug\StrongNamedAssemblyDependentDll.dll
+C:\DEV\DllTestBed\StrongNamedAssemblyDependentDll\bin\Debug\StrongNamedAssemblyDependentDll.pdb
+C:\DEV\DllTestBed\StrongNamedAssemblyDependentDll\bin\Debug\SimpleStrongNamedDll.dll
+C:\DEV\DllTestBed\StrongNamedAssemblyDependentDll\bin\Debug\SimpleStrongNamedDll.pdb
+C:\DEV\DllTestBed\StrongNamedAssemblyDependentDll\obj\Debug\ResolveAssemblyReference.cache
+C:\DEV\DllTestBed\StrongNamedAssemblyDependentDll\obj\Debug\StrongNamedAssemblyDependentDll.dll
+C:\DEV\DllTestBed\StrongNamedAssemblyDependentDll\obj\Debug\StrongNamedAssemblyDependentDll.pdb

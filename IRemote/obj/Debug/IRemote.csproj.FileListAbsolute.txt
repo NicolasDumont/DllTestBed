@@ -1,0 +1,5 @@
+C:\DEV\DllTestBed\IRemote\bin\Debug\IRemote.dll
+C:\DEV\DllTestBed\IRemote\bin\Debug\IRemote.pdb
+C:\DEV\DllTestBed\IRemote\obj\Debug\ResolveAssemblyReference.cache
+C:\DEV\DllTestBed\IRemote\obj\Debug\IRemote.dll
+C:\DEV\DllTestBed\IRemote\obj\Debug\IRemote.pdb

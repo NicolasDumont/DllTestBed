@@ -1,0 +1,5 @@
+C:\DEV\DllTestBed\SimpleNotStrongNamedDll\bin\Debug\SimpleNotStrongNamedDll.dll
+C:\DEV\DllTestBed\SimpleNotStrongNamedDll\bin\Debug\SimpleNotStrongNamedDll.pdb
+C:\DEV\DllTestBed\SimpleNotStrongNamedDll\obj\Debug\ResolveAssemblyReference.cache
+C:\DEV\DllTestBed\SimpleNotStrongNamedDll\obj\Debug\SimpleNotStrongNamedDll.dll
+C:\DEV\DllTestBed\SimpleNotStrongNamedDll\obj\Debug\SimpleNotStrongNamedDll.pdb

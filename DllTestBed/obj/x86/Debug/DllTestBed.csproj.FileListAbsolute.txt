@@ -1,0 +1,15 @@
+C:\DEV\DllTestBed\DllTestBed\bin\Debug\DllTestBed.exe
+C:\DEV\DllTestBed\DllTestBed\bin\Debug\DllTestBed.pdb
+C:\DEV\DllTestBed\DllTestBed\bin\Debug\InvocationManager.dll
+C:\DEV\DllTestBed\DllTestBed\bin\Debug\IRemote.dll
+C:\DEV\DllTestBed\DllTestBed\bin\Debug\RemoteProxy.dll
+C:\DEV\DllTestBed\DllTestBed\bin\Debug\InvocationManager.pdb
+C:\DEV\DllTestBed\DllTestBed\bin\Debug\IRemote.pdb
+C:\DEV\DllTestBed\DllTestBed\bin\Debug\RemoteProxy.pdb
+C:\DEV\DllTestBed\DllTestBed\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DEV\DllTestBed\DllTestBed\obj\x86\Debug\DllTestBed.DllTestBedForm.resources
+C:\DEV\DllTestBed\DllTestBed\obj\x86\Debug\DllTestBed.Properties.Resources.resources
+C:\DEV\DllTestBed\DllTestBed\obj\x86\Debug\ResGen.read.1.tlog
+C:\DEV\DllTestBed\DllTestBed\obj\x86\Debug\ResGen.write.1.tlog
+C:\DEV\DllTestBed\DllTestBed\obj\x86\Debug\DllTestBed.exe
+C:\DEV\DllTestBed\DllTestBed\obj\x86\Debug\DllTestBed.pdb

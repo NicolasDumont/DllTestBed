@@ -1,0 +1,9 @@
+C:\DEV\DllTestBed\InvocationManager\bin\Debug\InvocationManager.dll
+C:\DEV\DllTestBed\InvocationManager\bin\Debug\InvocationManager.pdb
+C:\DEV\DllTestBed\InvocationManager\bin\Debug\IRemote.dll
+C:\DEV\DllTestBed\InvocationManager\bin\Debug\RemoteProxy.dll
+C:\DEV\DllTestBed\InvocationManager\bin\Debug\IRemote.pdb
+C:\DEV\DllTestBed\InvocationManager\bin\Debug\RemoteProxy.pdb
+C:\DEV\DllTestBed\InvocationManager\obj\Debug\ResolveAssemblyReference.cache
+C:\DEV\DllTestBed\InvocationManager\obj\Debug\InvocationManager.dll
+C:\DEV\DllTestBed\InvocationManager\obj\Debug\InvocationManager.pdb

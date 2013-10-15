@@ -1,0 +1,5 @@
+C:\DEV\DllTestBed\IndependentDll\bin\Debug\IndependentDll.dll
+C:\DEV\DllTestBed\IndependentDll\bin\Debug\IndependentDll.pdb
+C:\DEV\DllTestBed\IndependentDll\obj\Debug\ResolveAssemblyReference.cache
+C:\DEV\DllTestBed\IndependentDll\obj\Debug\IndependentDll.dll
+C:\DEV\DllTestBed\IndependentDll\obj\Debug\IndependentDll.pdb
